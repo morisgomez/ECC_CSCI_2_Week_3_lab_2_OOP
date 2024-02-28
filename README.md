@@ -1,2 +1,2 @@
 # ECC_Week3_OOP_lab2
-Design a class named PreferredCustomer, which is derived from the CustomerData class you created in lab assignment 1
+ Create different objects of the classes and try to find areas of rectangle and triangle objects.
